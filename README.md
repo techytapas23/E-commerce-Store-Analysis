@@ -2,7 +2,7 @@
 
 ## Dashboard Screenshots
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](https://github.com/techytapas23/E-commerce-Store-Analysis/blob/main/Screenshot%202024-06-30%20123223.png)
 This repository contains a Power BI dashboard project that provides a comprehensive analysis of an e-commerce store's sales performance. The dashboard offers valuable insights into sales metrics, helping to understand sales trends, customer behavior, and overall business performance.
 
 Key Features
